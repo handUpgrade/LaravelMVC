@@ -1,0 +1,156 @@
+.edit_info{
+  background-color: #d1ecf1;
+  border:2px solid #bee5eb;
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+}
+.edit_info:hover{
+  background-color: #d4edda;
+  border:2px solid #c3e6cb;
+  color: gray;
+  font-size: 15px;
+  font-weight: bold;
+}
+.edit_pwd{
+  background-color: #d1ecf1;
+  border:2px solid #bee5eb;
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.edit_pwd:hover{
+  background-color: #d4edda;
+  border:2px solid #c3e6cb;
+  color: gray;
+  font-size: 15px;
+  font-weight: bold;
+}
+.edit_human{
+  width: 70px;
+  height: 30px;
+  background-color: #f8d7da;
+  border:2px solid #f5c6cb;
+  color: black;
+  font-size: 15px;
+}
+.edit_human:hover{
+  width: 70px;
+  height: 30px;
+  background-color: pink;
+  border:2px solid pink;
+  color: white;
+  font-size: 15px;
+}
+.edit_delete{
+  width: 60px;
+  height: 30px;
+  background-color: #cce5ff;
+  border: 2px solid #b8daff;
+}
+.edit_delete:hover{
+  color: white;
+  background-color: skyblue;
+  border: 1px solid skyblue;
+}
+/* .textinfo{
+  color: red;
+  background-color: blue;
+} */
+.edit_p{
+  text-align: center;
+}
+.edit_h3{
+  text-align: center;
+}
+.edit_table{
+  border: 3px solid violet;
+  display: flex;
+  height: 300px;
+
+}
+.edit_table td{
+  /* margin-bottom: 30px; */
+  padding-right: 20px;
+}
+
+#edit_info_manager h3{
+  text-align: center;
+}
+
+#edit_info_manager td{
+    padding-left: 10px;   
+    padding-right: 10px;
+    font-weight: bold;   
+}
+
+#edit_info_manager p{
+  text-align: center;;
+}
+
+#edit_info_down{
+  flex-direction:row;
+  text-align: center;
+}
+#edit_info_down button{
+  width: 150px;
+  height: 40px;
+  /* margin-left: 35%; */
+  font-size: 20px;
+  border-radius: 8em 8em 8em 8em;
+  background:linear-gradient(to right,#F6CEF5,#F5A9BC);
+
+}
+#edit_cancel{
+  border: 1px solid red;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-left: 37.5%;
+  width:25%;
+  text-align: center;
+}
+
+.edit_button button,a{
+  margin-right: 10px;
+  margin-top: 10px;
+
+}
+
+#edit_cancel a{
+  text-align: center;
+}
+#formData{
+  /* width: 400px; */
+  width:auto;
+}
+.nice3{
+    background-color: #CEECF5;
+    border:2px solid #bee5eb;
+    border-radius:5px;
+    padding-left: 10px;
+    display: inline-block;
+    padding: 10px;
+
+  }
+
+.change_pw{
+    background-color: #CEECF5;
+    border:2px solid #bee5eb;
+    border-radius:5px;
+    padding-left: 10px;
+    display: inline-block;
+    padding: 10px;
+  }
+.change_pw tr{
+    font-weight: bold;
+}
+
+.chocie_btn{
+   
+}
+.change_pw button,a{    
+    margin-top: 10px;
+}
+
+
